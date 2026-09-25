@@ -555,15 +555,6 @@ Returns current service status.
 
 ---
 
-### 📬 Get in Touch
-
-Have questions, suggestions, or want to collaborate?
-
-**Nithish S** — [nithishsivasamy07@gmail.com](mailto:nithishsivasamy07@gmail.com)
-
-Whether it's a bug report, a feature request, or a collaboration opportunity — all messages are welcome.
-
----
 
 *© 2026 Nithish S · Pest Detection Agent · Apache 2.0 License*
 
